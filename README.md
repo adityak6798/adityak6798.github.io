@@ -1,4 +1,4 @@
-# adityak6798.github.io
-Machine Learning Blog
+# Machine Learning Blog
+Authors: Aditya Khandelwal, Renu Khandelwal
 
-[Walk-through of a Machine Learning Example: The Iris Dataset](ml_walkthrough.ipynb)
+1. [Walk-through of a Machine Learning Example: The Iris Dataset](ml_walkthrough.ipynb)
