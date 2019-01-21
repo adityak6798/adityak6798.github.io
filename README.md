@@ -6,4 +6,4 @@ Authors: Aditya Khandelwal, Renu Khandelwal
 # COEP's DS-AI Club Lecture Series
 Author: Aditya Khandelwal
 
-1. [An Introduction into Python](https://nbviewer.jupyter.org/github/adityak6798/adityak6798.github.io/blob/master/Lecture 1 - An Introduction into Python.ipynb)
+1. [An Introduction into Python](https://nbviewer.jupyter.org/github/adityak6798/adityak6798.github.io/blob/master/Lecture%201%20-%20An%20Introduction%20into%20Python.ipynb)
