@@ -10,6 +10,7 @@ Author: Aditya Khandelwal
 1. [Functions and Objects in Python](https://nbviewer.jupyter.org/github/adityak6798/adityak6798.github.io/blob/master/Lecture%202%20-%20Functions%20and%20Objects%20in%20Python.ipynb)
 1. [Important Libraries in Python (for Machine Learning)](https://nbviewer.jupyter.org/github/adityak6798/adityak6798.github.io/blob/master/Lecture%203%20-%20Important%20Libraries%20in%20Python.ipynb)
 1. [Machine Learning - 1](https://nbviewer.jupyter.org/github/adityak6798/adityak6798.github.io/blob/master/Lecture%204%20-%20Machine%20Learning%201.ipynb)
+1. [Linear Regression from Scratch](https://nbviewer.jupyter.org/github/adityak6798/adityak6798.github.io/blob/master/Lecture%205%20-%20Linear%20Regression.ipynb)
 
 
 
