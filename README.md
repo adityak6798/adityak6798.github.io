@@ -10,7 +10,6 @@
 1. Deep-Learning based Motor-Imagery EEG Signal Classification  
 > Experimenting with multiple design choices for the pipeline of classification of the MI-EEG Signals on the [BCIC 4-2a, BCIC 4-2b](http://bbci.de/competition/iv/), [BCIC 3-4a](http://bbci.de/competition/iii/) datasets.
 
-
 ### Completed
 1. [Algorithmic API Generation for SimpleFix](https://github.com/adityak6798/SimpleFIX-API-Algorithmic-Code-Generation)  
 > Used an XML file containing the structure of [FIX Protocol](http://www.quickfixengine.org/) messages to generate code for a higher-level API over [SimpleFix](https://simplefix.readthedocs.io/en/latest/).
