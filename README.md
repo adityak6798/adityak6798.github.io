@@ -8,16 +8,16 @@
 # Projects
 ### In Progress
 1. Deep-Learning based Motor-Imagery EEG Signal Classification  
-Experimenting with multiple design choices for the pipeline of classification of the MI-EEG Signals on the [BCIC 4-2a, BCIC 4-2b](http://bbci.de/competition/iv/), [BCIC 3-4a](http://bbci.de/competition/iii/) datasets.
+> Experimenting with multiple design choices for the pipeline of classification of the MI-EEG Signals on the [BCIC 4-2a, BCIC 4-2b](http://bbci.de/competition/iv/), [BCIC 3-4a](http://bbci.de/competition/iii/) datasets.
 ### Completed
 1. [Algorithmic API Generation for SimpleFix](https://github.com/adityak6798/SimpleFIX-API-Algorithmic-Code-Generation)  
-Used an XML file containing the structure of [FIX Protocol](http://www.quickfixengine.org/) messages to generate code for a higher-level API over [SimpleFix](https://simplefix.readthedocs.io/en/latest/).
+> Used an XML file containing the structure of [FIX Protocol](http://www.quickfixengine.org/) messages to generate code for a higher-level API over [SimpleFix](https://simplefix.readthedocs.io/en/latest/).
 1. [My DL Library](https://github.com/adityak6798/DeepLearning)  
-Implemented basic Deep Learning concepts from Scratch using NumPy : (ANN, CNN, Optimizers like SGD, AdaGrad and Adam).
+> Implemented basic Deep Learning concepts from Scratch using NumPy : (ANN, CNN, Optimizers like SGD, AdaGrad and Adam).
 1. [Twitter Sentiment Analysis](https://github.com/adityak6798/TwitterSentimentAnalysis)  
-A deep learning model to implement Sentiment Analysis by a character-level Convolutional Neural Network, based on the [paper by Xiang Zhang, Yann LeCun and Junbo Zhao](https://arxiv.org/abs/1509.01626). Model is scaled down to decrease training time and memory usage.
+> A deep learning model to implement Sentiment Analysis by a character-level Convolutional Neural Network, based on the [paper by Xiang Zhang, Yann LeCun and Junbo Zhao](https://arxiv.org/abs/1509.01626). Model is scaled down to decrease training time and memory usage.
 1. [Cryptron Game Playing Bot](https://github.com/adityak6798/xodiabot1)  
-A bot that plays a game called Cryptron (Xodia's problem statement for Credenz 2017). Uses MiniMax implemented with Alpha-Beta pruning, Iterative Deepening and a Principal-Variation Table.
+> A bot that plays a game called Cryptron (Xodia's problem statement for Credenz 2017). Uses MiniMax implemented with Alpha-Beta pruning, Iterative Deepening and a Principal-Variation Table.
 
 # Machine Learning Blog
 Authors: Aditya Khandelwal, Renu Khandelwal
