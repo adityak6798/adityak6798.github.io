@@ -1,9 +1,10 @@
 # Publications
 1. [NegBERT: A Transfer Learning Approach for Negation Detection and Scope Resolution](https://arxiv.org/abs/1911.04211)
     > **Authors**: Aditya Khandelwal, Suraj Sawant  
-     **Code**: _Coming soon... (ETA: January 2020)_
 1. [Resolving the Scope of Speculation and Negation using Transformer-Based Architectures](https://arxiv.org/abs/2001.02885)
-    > **Authors**: Benita Kathleen Britto, Aditya Khandelwal 
+    > **Authors**: Benita Kathleen Britto, Aditya Khandelwal
+    
+    **Code (for both the above)**: [Transformers for Negation and Speculation](https://github.com/adityak6798/Transformers-For-Negation-and-Speculation)
     
 # Projects
 ### In Progress
