@@ -5,23 +5,29 @@
     > **Authors**: Aditya Khandelwal, Suraj Sawant
 1. [Resolving the Scope of Speculation and Negation using Transformer-Based Architectures](https://arxiv.org/abs/2001.02885)
     > **Authors**: Benita Kathleen Britto, Aditya Khandelwal
+1. Multitask Learning of Negation and Speculation using Transformers
+    > **Accepted to LOUHI 2020: The 11th International Workshop on Health Text Mining and Information Analysis**
     
-    **Code (for both the above)**: [Transformers for Negation and Speculation](https://github.com/adityak6798/Transformers-For-Negation-and-Speculation)
+    > **Authors**: Aditya Khandelwal, Benita Kathleen Britto
+    
+    **Code (for all the above)**: [Transformers for Negation and Speculation](https://github.com/adityak6798/Transformers-For-Negation-and-Speculation)
     
 # Projects
 ### In Progress
 1. Deep-Learning based Motor-Imagery EEG Signal Classification  
-> Experimenting with multiple design choices for the pipeline of classification of the MI-EEG Signals on the [BCIC 4-2a, BCIC 4-2b](http://bbci.de/competition/iv/), [BCIC 3-4a](http://bbci.de/competition/iii/) datasets.
+    > Experimenting with multiple design choices for the pipeline of classification of the MI-EEG Signals on the [BCIC 4-2a, BCIC 4-2b](http://bbci.de/competition/iv/), [BCIC 3-4a](http://bbci.de/competition/iii/) datasets.
+1. Orthogonal Attention: A Cloze-Style Approach to Negation Scope Resolution
+    > Creating a new Cloze-Style Attention mechanism inspired by Self Attention, and using it to address Negation Scope Resolution.
 
 ### Completed
 1. [Algorithmic API Generation for SimpleFix](https://github.com/adityak6798/SimpleFIX-API-Algorithmic-Code-Generation)  
-> Used an XML file containing the structure of [FIX Protocol](http://www.quickfixengine.org/) messages to generate code for a higher-level API over [SimpleFix](https://simplefix.readthedocs.io/en/latest/).
+    > Used an XML file containing the structure of [FIX Protocol](http://www.quickfixengine.org/) messages to generate code for a higher-level API over [SimpleFix](https://simplefix.readthedocs.io/en/latest/).
 1. [My DL Library](https://github.com/adityak6798/DeepLearning)  
-> Implemented basic Deep Learning concepts from Scratch using NumPy : (ANN, CNN, Optimizers like SGD, AdaGrad and Adam).
+    > Implemented basic Deep Learning concepts from Scratch using NumPy : (ANN, CNN, Optimizers like SGD, AdaGrad and Adam).
 1. [Twitter Sentiment Analysis](https://github.com/adityak6798/TwitterSentimentAnalysis)  
-> A deep learning model to implement Sentiment Analysis by a character-level Convolutional Neural Network, based on the [paper by Xiang Zhang, Yann LeCun and Junbo Zhao](https://arxiv.org/abs/1509.01626). Model is scaled down to decrease training time and memory usage.
+    > A deep learning model to implement Sentiment Analysis by a character-level Convolutional Neural Network, based on the [paper by Xiang Zhang, Yann LeCun and Junbo Zhao](https://arxiv.org/abs/1509.01626). Model is scaled down to decrease training time and memory usage.
 1. [Cryptron Game Playing Bot](https://github.com/adityak6798/xodiabot1)  
-> A bot that plays a game called Cryptron (Xodia's problem statement for Credenz 2017). Uses MiniMax implemented with Alpha-Beta pruning, Iterative Deepening and a Principal-Variation Table.
+    > A bot that plays a game called Cryptron (Xodia's problem statement for Credenz 2017). Uses MiniMax implemented with Alpha-Beta pruning, Iterative Deepening and a Principal-Variation Table.
 
 # Machine Learning Blog
 Authors: Aditya Khandelwal, Renu Khandelwal
