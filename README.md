@@ -5,7 +5,7 @@
     > **Authors**: Aditya Khandelwal, Suraj Sawant
 1. [Resolving the Scope of Speculation and Negation using Transformer-Based Architectures](https://arxiv.org/abs/2001.02885)
     > **Authors**: Benita Kathleen Britto, Aditya Khandelwal
-1. Multitask Learning of Negation and Speculation using Transformers
+1. [Multitask Learning of Negation and Speculation using Transformers](https://www.aclweb.org/anthology/2020.louhi-1.9/)
     > **Accepted to LOUHI 2020: The 11th International Workshop on Health Text Mining and Information Analysis**
     
     > **Authors**: Aditya Khandelwal, Benita Kathleen Britto
