@@ -1,3 +1,24 @@
+# Big Tech
+1. Microsoft Shopping
+    > Pioneered GPT3-powered Smart-Compare Proof of Concept in Bing Chat, reimagining product comparison; scaled data pipeline to 
+    ~10M products/day in a resource-constrained setting; collaborated with key senior stakeholders for successful deployment
+    
+    > Streamlined processing of an ML-powered Aspect-based Sentiment Analysis system by consolidating 5 pipelines across 4 global 
+    teams and 2 organizations, resulting in enhanced efficiency (10x processing time reduction) and accuracy (1.8x improvement)
+    
+    > Led cross-functional effort to expand Product Graph taxonomy (novel way to store ~4B online product listings) by 70x, and show 
+    additional filters using it, resulting in ~9% revenue increase for affected listings, and high praise from CVP of Microsoft WebXT
+    
+    > Developed an Active Learning-based fully automated ML system to find articles with shopping content, boosting Daily Active 
+    Users by 5x (200k to 1M); deployed in coordination with relevant organizations, ensuring minimal overlap with existing systems
+
+# Startup Experiences
+1. [2WheelR](https://www.2wheelr.com/) - Founding Team Member
+   > Helped with finances and growth strategy
+1. [The Impact Engine](https://theimpactengine.in/) - Founding Team Member
+   > Helped develop the product, set organizational strategy and execute strategic pivot  
+
+
 # Publications
 1. [NegBERT: A Transfer Learning Approach for Negation Detection and Scope Resolution](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.704.pdf)
     > **Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020), pages 5739–5748**
@@ -10,16 +31,16 @@
     
     > **Authors**: Aditya Khandelwal, Benita Kathleen Britto
     
-    **Code (for all the above)**: [Transformers for Negation and Speculation](https://github.com/adityak6798/Transformers-For-Negation-and-Speculation)
-    
-# Projects
-### In Progress
-1. Deep-Learning based Motor-Imagery EEG Signal Classification  
-    > Experimenting with multiple design choices for the pipeline of classification of the MI-EEG Signals on the [BCIC 4-2a, BCIC 4-2b](http://bbci.de/competition/iv/), [BCIC 3-4a](http://bbci.de/competition/iii/) datasets.
-1. Orthogonal Attention: A Cloze-Style Approach to Negation Scope Resolution
+1. [Orthogonal Attention: A Cloze-Style Approach to Negation Scope Resolution](https://arxiv.org/abs/2103.04294)
     > Creating a new Cloze-Style Attention mechanism inspired by Self Attention, and using it to address Negation Scope Resolution.
-
-### Completed
+    
+    > **Authors**: Aditya Khandelwal, Vahida Attar
+    
+    **Code (for 1 - 3)**: [Transformers for Negation and Speculation](https://github.com/adityak6798/Transformers-For-Negation-and-Speculation)
+   
+   [**Google Scholar Profile**](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=5glnchoAAAAJ)
+    
+### Projects Completed
 1. [Algorithmic API Generation for SimpleFix](https://github.com/adityak6798/SimpleFIX-API-Algorithmic-Code-Generation)  
     > Used an XML file containing the structure of [FIX Protocol](http://www.quickfixengine.org/) messages to generate code for a higher-level API over [SimpleFix](https://simplefix.readthedocs.io/en/latest/).
 1. [My DL Library](https://github.com/adityak6798/DeepLearning)  
