@@ -1,4 +1,4 @@
-
+Aditya Khandelwal's Resume
 # Big Tech
 1. Microsoft Shopping
     > Pioneered GPT3-powered Smart-Compare Proof of Concept in Bing Chat, reimagining product comparison; scaled data pipeline to ~10M products/day in a resource-constrained setting; collaborated with key senior stakeholders for successful deployment
