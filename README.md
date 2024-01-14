@@ -1,16 +1,13 @@
+
 # Big Tech
 1. Microsoft Shopping
-    > Pioneered GPT3-powered Smart-Compare Proof of Concept in Bing Chat, reimagining product comparison; scaled data pipeline to 
-    ~10M products/day in a resource-constrained setting; collaborated with key senior stakeholders for successful deployment
+    > Pioneered GPT3-powered Smart-Compare Proof of Concept in Bing Chat, reimagining product comparison; scaled data pipeline to ~10M products/day in a resource-constrained setting; collaborated with key senior stakeholders for successful deployment
     
-    > Streamlined processing of an ML-powered Aspect-based Sentiment Analysis system by consolidating 5 pipelines across 4 global 
-    teams and 2 organizations, resulting in enhanced efficiency (10x processing time reduction) and accuracy (1.8x improvement)
+    > Streamlined processing of an ML-powered Aspect-based Sentiment Analysis system by consolidating 5 pipelines across 4 global teams and 2 organizations, resulting in enhanced efficiency (10x processing time reduction) and accuracy (1.8x improvement)
     
-    > Led cross-functional effort to expand Product Graph taxonomy (novel way to store ~4B online product listings) by 70x, and show 
-    additional filters using it, resulting in ~9% revenue increase for affected listings, and high praise from CVP of Microsoft WebXT
+    > Led cross-functional effort to expand Product Graph taxonomy (novel way to store ~4B online product listings) by 70x, and show additional filters using it, resulting in ~9% revenue increase for affected listings, and high praise from CVP of Microsoft WebXT
     
-    > Developed an Active Learning-based fully automated ML system to find articles with shopping content, boosting Daily Active 
-    Users by 5x (200k to 1M); deployed in coordination with relevant organizations, ensuring minimal overlap with existing systems
+    > Developed an Active Learning-based fully automated ML system to find articles with shopping content, boosting Daily Active Users by 5x (200k to 1M); deployed in coordination with relevant organizations, ensuring minimal overlap with existing systems
 
 # Startup Experiences
 1. [2WheelR](https://www.2wheelr.com/) - Founding Team Member
